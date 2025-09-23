@@ -108,6 +108,57 @@
 //     }
 
 
+// // 5. Run this script, & check whether alert message would be displayed or not. Record the outputs.
+// // Part A
+// var a = 4;
+// if (++a === 5) {
+//     alert("given condition for variable a is true because it is pre-increment");
+// }
+
+// // Part B 
+// var b = 82;
+// if (b++ === 83) {
+//     alert("given condition for variable b is false because it is post-increment");
+// }
+
+// // Part C
+// var c = 12;
+// if (c++ === 13) {
+//     alert("This is wrong condition because it is post-increment");
+// }
+// if (c === 13) {
+//     alert("This condition is right because upper value is post-increment so now it change 12 to 13");
+// }
+
+// if (++c < 14) {
+//     alert("This condition is false because ++c increased the value to 14 before comparison, and 14 can never be less than 14. That’s why the condition is false.");
+// }
+
+// if (c === 14) {
+//     alert("This is right condition because it is equal");
+// }
+
+// // Part D
+// var materialCost = 20000;
+// var laborCost = 2000;
+// var totalCost = materialCost + laborCost;
+// if (totalCost === laborCost + materialCost){
+// alert("The cost equals");
+// }
+
+// // Part E 
+// if (true){
+// alert("True");
+// }
+// if (false){
+// alert("False");
+// }
+
+// // Part F
+// if("car" < "cat"){
+// alert("car is smaller than cat because value of 'T' of cat grether then value of 'R' of car  ");
+// }
+
 
 // // Qno:6 Write a program to take input the marks obtained in three subjects & total marks. Compute & show the resulting
 // // percentage on your page. Take percentage & compute grade as per following table:
@@ -160,6 +211,7 @@
 // // a. If user guesses the same number, show “Bingo! Correct answer”.
 // if (guessNumber === secret) {
 //    alert("Bingo! Correct answer") 
+//    alert("Bingo! Correct answer")
 // }
 
 // // b. If the guessed number +1 is the secret number, show “Close enough to the correct answer”.
@@ -224,12 +276,17 @@
 
 // let firstNumber = +prompt("Enter your first number")
 // let secondNumber = +prompt("Enter your secound number")
+
 // let operation = prompt(`Choose your operation 
 // (+, -, *, /, %)`) 
 
+// let operation = prompt(`Choose your operation
+// (+, -, *, /, %)`)
+
+
 // if (operation === "+") {
 //     alert(firstNumber+secondNumber)
-// }
+// 
 // else if (operation === "-") {
 //     alert(firstNumber-secondNumber)
 // }
@@ -241,4 +298,10 @@
 // }
 // else{
 //     alert(firstNumber%secondNumber)
+
 // }
+// }
+
+
+
+// >>>>>>>>>>>>>>>> CHAPTER # 9-11 END <<<<<<<<<<<<<<<<<<

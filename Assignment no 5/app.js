@@ -35,6 +35,7 @@
 // let mod = 2 % 4; 
 // document.write(`the modulus of ${num1} and ${num2} is ${mod}`)
 
+<<<<<<< HEAD
 // Qno:3. Do the following using JS Mathematic Expressions
 // a. Declare a variable.
 // let number;
@@ -271,3 +272,15 @@
 // document.write(`You will need ${eat} to last you until the ripe old age of ${maximumAge}`)
 
 // ---------------- Chapter # 05 END ----------------
+=======
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 4227cca (secound commit)
