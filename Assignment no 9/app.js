@@ -164,3 +164,6 @@
 // document.write("<select>")
 
 // // <<<<<<<<< Chapter 14-16  END >>>>>>>>>>>
+// window.alert("hello")
+let my = ("muneeza");
+console.log(my);
