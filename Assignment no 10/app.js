@@ -143,3 +143,21 @@
 
 
 // <<<<<<<<<<< Chapter 17-20 END <<<<<<<<<<<<<<<<
+
+
+
+
+
+
+
+// const array = ["Apple ","mango", "banana","orange"]
+// array.splice(1,2,100)
+
+// console.log(array);
+
+
+const array = ["Apple ","mango", "banana","orange"]
+array.splice(1)
+
+console.log(array);
+
